@@ -11,7 +11,7 @@ Functions of fdslrm R package were developed with R version 3.4.2 (2017-09-28).
 
 To clone the fdslrm repository, first navigate in a terminal to where you want the repository cloned, then type
 ```
-git clone https://github.com/gajdosandrej/fdslrmAllinOne.git
+git clone https://github.com/fdslrm/fdslrmAllinOne.git
 ```
 and you need to open fdslrmAllinOne.Rproj. 
 Finally you load the functions from `fdslrmAllinOne.R` by running the following command in R console 
@@ -33,7 +33,7 @@ source("fdslrmAllinOne.R")
 
 Just run the next command in R:
 ```
-devtools::source_url("https://github.com/gajdosandrej/fdslrmAllinOne/blob/master/fdslrmAllinOne.R?raw=TRUE")
+devtools::source_url("https://github.com/fdslrm/fdslrmAllinOne/blob/master/fdslrmAllinOne.R?raw=TRUE")
 ```
 
 Acknowledgements
